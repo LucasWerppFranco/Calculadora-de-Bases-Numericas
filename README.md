@@ -2,9 +2,9 @@
 
 ```
                        ,---.
-  O Mago               /    |
-    Da                /     |
-Matemática           /      |
+       The             /    |
+       Math           /     |
+       Wizard!!!     /      |
                     /       |
                ___,'        |
              <  -'          :
