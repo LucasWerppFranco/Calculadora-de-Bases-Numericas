@@ -1,4 +1,4 @@
-# Calculadora-de-Bases-Numericas 
+# Conversor de Bases Numericas
 
 ```
                        ,---.
